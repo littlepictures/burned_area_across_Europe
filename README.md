@@ -36,8 +36,8 @@ From the JupyterLab's **Launcher**, open a **Terminal** window and type
 
 ```bash
 cd ~/work
-git clone https://github.com/trevalabs/pytrevalabs.git
-git clone https://github.com/trevalabs/clip_05_burning_lands.git
+git clone https://github.com/littlepictures/pytrevalabs.git
+git clone https://github.com/littlepictures/clip_05_burning_lands.git
 ```
 
 Note you can also use the JupyterLab's **Git** extension (left side bar) to clone the repos.
