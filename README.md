@@ -1,7 +1,14 @@
-# CLIP - Fire Streamgraph
+# little picture - little picture - global mean sea level
 
-## Background on this CLIP
-This repository contains a Jupyter notebook that analyzes the Fire_CCI Burned Area data for European countries. The data represents the area of land that has been burned due to wildfires, and these measurements are taken from the MODIS instrument.
+## Background on this little picture
+_burned area across Europe 2001-2020 – a streamgraph_
+
+Monitoring wildfires from space is crucial for understanding their impact on climate, including the release of greenhouse gases &amp; aerosols that
+influence the Earth system. This data driven Little Picture illustrates satellite Burned Area data for European countries between 2001-2020. Each country has its own
+stream. The width of each stream represents the burned area for that year.
+
+https://climate.esa.int/en/little-pictures-gallery/Burned-area-across-Europe/
+
 
 ## Data Sources
 
