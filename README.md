@@ -1,4 +1,4 @@
-# little picture - global mean sea level
+# little picture - burned_area_across_Europe
 
 ## Background on this little picture
 _burned area across Europe 2001-2020 – a streamgraph_
