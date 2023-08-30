@@ -1,4 +1,4 @@
-# little picture - burned_area_across_Europe
+# little picture - burned area across Europe
 
 ## Background on this little picture
 _burned area across Europe 2001-2020 – a streamgraph_
@@ -65,7 +65,7 @@ git pull --rebase
 
 Note you can also use the JupyterLab's **Git** extension (left side bar) to update the repos.
 
-## Data Visualization
+## Data Visualisations
 - The data is loaded from a CSV file, 'ba-europe-countries.csv', into a pandas DataFrame.
 - The DataFrame is then preprocessed by "melting" it, transforming it from a wide format to a long format. This is done to make the data suitable for creating a streamgraph.
 - Further, certain countries (Europe, Ukraine, and Belarus) are filtered out from the DataFrame.
